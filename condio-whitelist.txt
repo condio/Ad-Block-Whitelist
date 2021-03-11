@@ -1,6 +1,3 @@
-!
-! Title: Whitelist
-! Description: My personal whitelist
-! Last modified: 2021-03-11
-!
-||device-metrics-*.amazon.com^
+# My Home whitelist
+# Kindle
+@@||device-metrics-*.amazon.com^
