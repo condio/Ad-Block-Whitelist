@@ -1,1 +1,6 @@
-device-metrics-*.amazon.com^
+!
+! Title: Whitelist
+! Description: My personal whitelist
+! Last modified: 2021-03-11
+!
+||device-metrics-*.amazon.com^
